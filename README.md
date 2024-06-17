@@ -1,4 +1,7 @@
-## Trabalho de Aprendizado de Máquina 2024/1
+## Trabalho de Aprendizado de Máquina 2024/1: 
+## Análise Comparativa entre Métodos Estatísticos e de Aprendizado de Máquina para Previsão do Consumo de Energia Elétrica
+
+Dupla: Daiane de Souza Oliveira e Bruno Policarpo Toledo Freitas
 
 O dataset criado para o trabalho corresponde a planilha "DADOS_FECHADOS.xlsx"
 
