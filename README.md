@@ -15,7 +15,7 @@ Para executar em Máquinas Linux:
 source ./setenv.sh
 ```
 
-2) Execute o script neuralnetwork.py
+2) Execute o script neuralnetwork.py, usando o interpretador Python diretamente:
 
 ```
 python3 ./neuralnetwork.py
