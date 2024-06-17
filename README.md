@@ -4,9 +4,9 @@ O dataset criado para o trabalho corresponde a planilha "DADOS_FECHADOS.xlsx"
 
 Porém, o script da Rede Neural utiliza os arquivos X.cvs e Y.cvs, que são a mesma coisa que a planilha mas em formato cvs.
 
-Para executar em Máquinas Linux: 
-
 ## Execução do modelo
+
+Para executar em Máquinas Linux: 
 
 1) Execute o script de configuração do ambiente
 ```
